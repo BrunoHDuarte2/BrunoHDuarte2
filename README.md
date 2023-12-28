@@ -2,7 +2,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Engenharia de Software** na Universidade de Brasilia (UnB/FGA).
+- 🎓 Estudando **Ciência da Computação** na Universidade de Brasilia (UnB/FGA).
 - 🌱 &nbsp; Aprendendo mais sobre **PINN's (Physics Informed Neural Networks)**.
 
 <h3>Minhas Skills</h3>
