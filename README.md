@@ -34,7 +34,7 @@
 <br/>
 
 <a href="https://github.com/bdebatata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bdebatata&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BurnoHDuarte2&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
